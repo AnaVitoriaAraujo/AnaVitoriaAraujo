@@ -9,14 +9,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmwzbXFodnplcXZ5aGZkOHozeXkxdmd5cXUyYjRrcnZobnhpNWhwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnexM9LwlwGu4Z1QnS/giphy.gif" width="100%" />
 </p>
 
----
-
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=AnaVitoriaAraujo&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVitoriaAraujo&layout=compact&theme=tokyonight" alt="Top Langs" height="200"/>
 </div>
 
----
 
 ## 🛠️ Tecnologias que trabalho
 
