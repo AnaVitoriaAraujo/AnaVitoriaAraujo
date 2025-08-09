@@ -30,15 +30,15 @@ Gosto de transformar ideias em código e resolver problemas com soluções intel
 
 ## 🛠️ Tecnologias que trabalho
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-333?style=flat&logo=csharp&logoColor=purple)
-![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi&logoColor=yellow)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-333?style=flat&logo=microsoft-office&logoColor=orange)
-![CRM](https://img.shields.io/badge/-CRM-333?style=flat&logo=hubspot&logoColor=ff7a59)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux&logoColor=white)
+[![Python](https://img.shields.io/badge/python-333?style=flat&logo=python&logoColor=yellow)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/sql-333?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![C#](https://img.shields.io/badge/csharp-333?style=flat&logo=csharp&logoColor=purple)](https://docs.microsoft.com/dotnet/csharp/)
+[![HTML5](https://img.shields.io/badge/html5-333?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/css3-333?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Power BI](https://img.shields.io/badge/powerbi-333?style=flat&logo=powerbi&logoColor=yellow)](https://powerbi.microsoft.com/)
+[![Microsoft Office](https://img.shields.io/badge/microsoft_office-333?style=flat&logo=microsoft-office&logoColor=orange)](https://www.office.com/)
+[![CRM](https://img.shields.io/badge/crm-333?style=flat&logo=hubspot&logoColor=ff7a59)](https://www.hubspot.com/products/crm)
+[![Linux](https://img.shields.io/badge/linux-333?style=flat&logo=linux&logoColor=white)](https://www.linux.org/)
 
 ---
 
