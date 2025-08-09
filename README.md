@@ -30,15 +30,15 @@ Gosto de transformar ideias em código e resolver problemas com soluções intel
 
 ## 🛠️ Tecnologias que trabalho
 
-[![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://www.python.org/){: height="30px"}
-[![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://www.mysql.com/){: height="30px"}
-[![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)](https://docs.microsoft.com/dotnet/csharp/){: height="30px"}
-[![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5){: height="30px"}
-[![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS){: height="30px"}
-[![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg)](https://powerbi.microsoft.com/){: height="30px"}
-[![Microsoft Office](https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_2019_%282018%E2%80%93present%29_logo.svg)](https://www.office.com/){: height="30px"}
-[![CRM](https://seeklogo.com/images/H/hubspot-logo-3F65E31398-seeklogo.com.png)](https://www.hubspot.com/products/crm){: height="30px"}
-[![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)](https://www.linux.org/){: height="30px"}
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="30"/>](https://www.python.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" height="30"/>](https://www.mysql.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="30"/>](https://docs.microsoft.com/dotnet/csharp/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="30"/>](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="30"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" alt="Power BI" height="30"/>](https://powerbi.microsoft.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_2019_%282018%E2%80%93present%29_logo.svg" alt="Microsoft Office" height="30"/>](https://www.office.com/)
+[<img src="https://seeklogo.com/images/H/hubspot-logo-3F65E31398-seeklogo.com.png" alt="CRM" height="30"/>](https://www.hubspot.com/products/crm)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="30"/>](https://www.linux.org/)
 
 ---
 
