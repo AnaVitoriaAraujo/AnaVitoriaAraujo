@@ -1,6 +1,12 @@
 # 👩‍💻 Ana Vitória Araújo de Souza
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77DFF&center=true&vCenter=true&width=435&lines=Olá%2C+meu+nome+é+Ana+Vitória!;Desenvolvedora+com+foco+em+Python%2C+SQL+e+C%23;Apaixonada+por+tecnologia+e+lógica+de+programação)](https://github.com/DenverCoder1/readme-typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77DFF&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Ana+Vitória!;Desenvolvedora+com+foco+em+Python%2C+SQL+e+C%23;Apaixonada+por+tecnologia+e+lógica+de+programação" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
 <img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
