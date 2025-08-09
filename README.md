@@ -30,15 +30,15 @@ Gosto de transformar ideias em código e resolver problemas com soluções intel
 
 ## 🛠️ Tecnologias que trabalho
 
-[![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python&logoColor=yellow&label=)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/-SQL-ffffff?style=flat&logo=mysql&logoColor=black&label=)](https://www.mysql.com/)
-[![C#](https://img.shields.io/badge/-CSharp-ffffff?style=flat&logo=csharp&logoColor=purple&label=)](https://docs.microsoft.com/dotnet/csharp/)
-[![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=html5&logoColor=orange&label=)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/-CSS3-ffffff?style=flat&logo=css3&logoColor=blue&label=)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Power BI](https://img.shields.io/badge/-PowerBI-ffffff?style=flat&logo=powerbi&logoColor=yellow&label=)](https://powerbi.microsoft.com/)
-[![Microsoft Office](https://img.shields.io/badge/-Office-ffffff?style=flat&logo=microsoft-office&logoColor=orange&label=)](https://www.office.com/)
-[![CRM](https://img.shields.io/badge/-CRM-ffffff?style=flat&logo=hubspot&logoColor=ff7a59&label=)](https://www.hubspot.com/products/crm)
-[![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat&logo=linux&logoColor=black&label=)](https://www.linux.org/)
+[![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://www.python.org/)
+[![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://www.mysql.com/)
+[![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)](https://docs.microsoft.com/dotnet/csharp/)
+[![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg)](https://powerbi.microsoft.com/)
+[![Microsoft Office](https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_2019_%282018%E2%80%93present%29_logo.svg)](https://www.office.com/)
+[![CRM](https://seeklogo.com/images/H/hubspot-logo-3F65E31398-seeklogo.com.png)](https://www.hubspot.com/products/crm)
+[![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)](https://www.linux.org/)
 
 ---
 
