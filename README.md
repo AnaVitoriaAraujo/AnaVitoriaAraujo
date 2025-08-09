@@ -35,10 +35,11 @@ Gosto de transformar ideias em código e resolver problemas com soluções intel
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="30"/>](https://docs.microsoft.com/dotnet/csharp/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="30"/>](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="30"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" alt="Power BI" height="30"/>](https://powerbi.microsoft.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_2019_%282018%E2%80%93present%29_logo.svg" alt="Microsoft Office" height="30"/>](https://www.office.com/)
-[<img src="https://seeklogo.com/images/H/hubspot-logo-3F65E31398-seeklogo.com.png" alt="CRM" height="30"/>](https://www.hubspot.com/products/crm)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" height="30"/>](https://powerbi.microsoft.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" alt="Microsoft Office" height="30"/>](https://www.office.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hubspot/hubspot-original.svg" alt="CRM" height="30"/>](https://www.hubspot.com/products/crm)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="30"/>](https://www.linux.org/)
+
 
 ---
 
