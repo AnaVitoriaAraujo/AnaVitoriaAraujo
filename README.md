@@ -15,10 +15,9 @@
 
 ---
 
-## 📊 Linguagens mais usadas
+##  Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVitoriaAraujo&layout=compact&theme=tokyonight)
 
 ---
 
