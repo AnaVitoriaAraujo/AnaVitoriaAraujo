@@ -9,11 +9,9 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmwzbXFodnplcXZ5aGZkOHozeXkxdmd5cXUyYjRrcnZobnhpNWhwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnexM9LwlwGu4Z1QnS/giphy.gif" width="100%" />
 </p>
 
----
 
 ## 📈 Estatísticas do GitHub
 
-<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=AnaVitoriaAraujo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -22,12 +20,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVitoriaAraujo&layout=compact&theme=tokyonight" alt="Top Langs" />
     </td>
   </tr>
-</table>
----
-
-📍 Mauá, São Paulo  
-🎓 Análista de Dados | Graduanda em Ciência da Computação (último semestre)
-
 ---
 
 ## 🚀 Sobre Mim
