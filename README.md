@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmwzbXFodnplcXZ5aGZkOHozeXkxdmd5cXUyYjRrcnZobnhpNWhwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ITRemFlr5tS39AzQUL/giphy.gif)" width="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmwzbXFodnplcXZ5aGZkOHozeXkxdmd5cXUyYjRrcnZobnhpNWhwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnexM9LwlwGu4Z1QnS/giphy.gif" width="100%" />
 </p>
-
 
 📍 Mauá, São Paulo  
 🎓 Análista de Dados | Graduanda em Ciência da Computação (último semestre)
