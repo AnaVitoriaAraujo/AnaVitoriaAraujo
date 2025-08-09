@@ -1,23 +1,21 @@
-# 👩‍💻 Ana Vitória Araújo de Souza
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmwzbXFodnplcXZ5aGZkOHozeXkxdmd5cXUyYjRrcnZobnhpNWhwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnexM9LwlwGu4Z1QnS/giphy.gif" width="100%" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77DFF&center=true&vCenter=true&width=435&lines=Olá%2C+meu+nome+é+Ana+Vitória!;Desenvolvedora+com+foco+em+Python%2C+SQL+e+C%23;Apaixonada+por+tecnologia+e+lógica+de+programação)](https://github.com/DenverCoder1/readme-typing-svg)
+<h1 align="center">👩‍💻 Ana Vitória Araújo de Souza</h1>
 
-<img align="right" height="150" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmwzbXFodnplcXZ5aGZkOHozeXkxdmd5cXUyYjRrcnZobnhpNWhwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnexM9LwlwGu4Z1QnS/giphy.gif
-)">
-📍 Mauá, São Paulo  
-🎓 Técnica em TI | Graduanda em Ciência da Computação (último semestre)
-
----
-
-## 🚀 Sobre Mim
-
-Sou uma desenvolvedora com interesse especial em **SQL**, **Python**, **C#**, **HTML** e **CSS**.  
-Tenho formação técnica em TI e estou concluindo minha graduação em Ciência da Computação.  
-Gosto de transformar ideias em código e resolver problemas com soluções inteligentes e bem estruturadas.
+<h3 align="center">Desenvolvedora com foco em Python, SQL, C#, HTML, CSS e Power BI</h3>
 
 ---
 
-## 🛠️ Tecnologias que trabalho
+## 📍 Sobre Mim
+
+Olá! Sou a Ana Vitória, de Mauá (SP). Técnica em TI e quase formada em Ciência da Computação!  
+Gosto de resolver problemas com lógica e transformar ideias em soluções reais através do código.
+
+---
+
+## 🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql&logoColor=white)
@@ -31,19 +29,22 @@ Gosto de transformar ideias em código e resolver problemas com soluções intel
 
 ---
 
-## 📚 Formação Acadêmica
+## 📂 Projetos
 
-- 🎓 **Técnico em TI**  
-- 🎓 **Ciência da Computação** – Último semestre
-
----
-
-## 📬 Contato
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/seu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-vitoria-araujo-de-souza-a15604221)
-📧 ana.araaujoo10@gmail.com
+| Projeto | Descrição |
+|--------|-----------|
+| [🔗 Nome-do-Projeto-1](https://github.com/seu-usuario/nome-do-projeto-1) | Breve descrição do projeto. |
+| [🔗 Nome-do-Projeto-2](https://github.com/seu-usuario/nome-do-projeto-2) | Outro projeto legal com foco em dados. |
 
 ---
 
-> ⭐ Se gostou do meu trabalho, me siga aqui no GitHub para acompanhar os próximos projetos!
+## 📫 Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/seu-usuario)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)  
+📧 ana.vitoria@email.com
+
+---
+
+> ⭐ Obrigada por visitar meu perfil!
+
