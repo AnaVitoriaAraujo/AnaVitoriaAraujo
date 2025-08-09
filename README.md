@@ -37,12 +37,11 @@ Gosto de transformar ideias em código e resolver problemas com soluções intel
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Experiências
 
-| Projeto | Descrição |
-|--------|-----------|
-| [🔗 Nome-do-Projeto-1](https://github.com/seu-usuario/nome-do-projeto-1) | Uma breve descrição do que o projeto faz. |
-| [🔗 Nome-do-Projeto-2](https://github.com/seu-usuario/nome-do-projeto-2) | Um projeto feito em Python para resolver tal problema. |
+**🎯 Estágio em Key Account**  
+Atuo na **análise de dados** para a equipe de vendas de Key Account, criando **dashboards no Power BI** e acompanhando **KPIs**.  
+Realizo **análises de pipeline e forecast** via **CRM** e utilizo o **Pacote Office**, com foco em **Excel**, para relatórios e suporte às análises estratégicas.
 
 ---
 
@@ -50,12 +49,12 @@ Gosto de transformar ideias em código e resolver problemas com soluções intel
 
 - 🎓 **Técnico em TI**  
 - 🎓 **Ciência da Computação** – Último semestre
+- 🎓 **Cybersecurity**
 
 ---
 
 ## 📬 Contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/seu-usuario)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/ana-vitoria-araujo-de-souza-a15604221))
 📧 ana.araaujoo10@gmail.com
 
