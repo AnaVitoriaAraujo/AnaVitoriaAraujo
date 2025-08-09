@@ -52,8 +52,8 @@ Realizo **análises de pipeline e forecast** via **CRM** e utilizo o **Pacote Of
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/ana-vitoria-araujo-de-souza-a15604221))
-📧 ana.araaujoo10@gmail.com
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30"/>](https://www.linkedin.com/in/ana-vitoria-araujo-de-souza-a15604221)
+[<img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" height="30"/>](mailto:ana.araaujoo10@gmail.com)
 
 ---
 
