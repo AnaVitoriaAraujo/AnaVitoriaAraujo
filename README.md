@@ -9,15 +9,18 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmwzbXFodnplcXZ5aGZkOHozeXkxdmd5cXUyYjRrcnZobnhpNWhwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnexM9LwlwGu4Z1QnS/giphy.gif" width="100%" />
 </p>
 
-
-📍 Mauá, São Paulo  
-🎓 Análista de Dados | Graduanda em Ciência da Computação (último semestre)
-
 ---
 
 ##  Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVitoriaAraujo&layout=compact&theme=tokyonight)
+
+![Ana Vitória's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaVitoriaAraujo&show_icons=true&theme=tokyonight&hide=prs&hide_border=true)
+
+---
+
+📍 Mauá, São Paulo  
+🎓 Análista de Dados | Graduanda em Ciência da Computação (último semestre)
 
 ---
 
