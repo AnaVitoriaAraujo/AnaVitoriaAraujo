@@ -11,12 +11,18 @@
 
 ---
 
-##  Linguagens mais usadas
+## 📈 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVitoriaAraujo&layout=compact&theme=tokyonight)
-
-![Ana Vitória's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaVitoriaAraujo&show_icons=true&theme=tokyonight&hide=prs&hide_border=true)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AnaVitoriaAraujo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVitoriaAraujo&layout=compact&theme=tokyonight" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 ---
 
 📍 Mauá, São Paulo  
