@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77DFF&center=true&vCenter=true&width=435&lines=Olá%2C+meu+nome+é+Ana+Vitória!;Desenvolvedora+com+foco+em+Python%2C+SQL+e+C%23;Apaixonada+por+tecnologia+e+lógica+de+programação)](https://github.com/DenverCoder1/readme-typing-svg)
 
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 📍 Mauá, São Paulo  
 🎓 Técnica em TI | Graduanda em Ciência da Computação (último semestre)
@@ -27,15 +27,6 @@ Gosto de transformar ideias em código e resolver problemas com soluções intel
 
 ---
 
-## 📂 Projetos em Destaque
-
-| Projeto | Descrição |
-|--------|-----------|
-| [🔗 Nome-do-Projeto-1](https://github.com/seu-usuario/nome-do-projeto-1) | Uma breve descrição do que o projeto faz. |
-| [🔗 Nome-do-Projeto-2](https://github.com/seu-usuario/nome-do-projeto-2) | Um projeto feito em Python para resolver tal problema. |
-
----
-
 ## 📚 Formação Acadêmica
 
 - 🎓 **Técnico em TI**  
@@ -46,8 +37,8 @@ Gosto de transformar ideias em código e resolver problemas com soluções intel
 ## 📬 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/seu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
-📧 ana.vitoria@email.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-vitoria-araujo-de-souza-a15604221)
+📧 ana.araaujoo10@gmail.com
 
 ---
 
