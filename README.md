@@ -20,14 +20,6 @@
 
 ---
 
-## 🚀 Sobre Mim
-
-Sou uma desenvolvedora com interesse especial em **SQL**, **Python**, **C#**, **HTML** e **CSS**.  
-Tenho formação técnica em TI e estou concluindo minha graduação em Ciência da Computação.  
-Gosto de transformar ideias em código e resolver problemas com soluções inteligentes e bem estruturadas.
-
----
-
 ## 🛠️ Tecnologias que trabalho
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="30"/>](https://www.python.org/)
@@ -35,15 +27,15 @@ Gosto de transformar ideias em código e resolver problemas com soluções intel
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="30"/>](https://docs.microsoft.com/dotnet/csharp/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="30"/>](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="30"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Power_BI_logo.svg" alt="Power BI" height="30"/>](https://powerbi.microsoft.com/)
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Microsoft_Office_logo_%282019-present%29.svg" alt="Microsoft Office" height="30"/>](https://www.office.com/)
-
-[<img src="https://seeklogo.com/images/H/hubspot-logo-3F65E31398-seeklogo.com.png" alt="CRM" height="30"/>](https://www.hubspot.com/products/crm)
-
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="30"/>](https://www.linux.org/)
 
+---
+
+## 🚀 Sobre Mim
+
+Sou uma desenvolvedora com interesse especial em **SQL**, **Python**, **C#**, **HTML** e **CSS**.  
+Tenho formação técnica em TI e estou concluindo minha graduação em Ciência da Computação.  
+Gosto de transformar ideias em código e resolver problemas com soluções inteligentes e bem estruturadas.
 
 ---
 
