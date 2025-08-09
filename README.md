@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77DFF&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Ana+Vitória!;Desenvolvedora+com+foco+em+Python%2C+SQL+e+C%23;Apaixonada+por+tecnologia+e+lógica+de+programação" alt="Typing SVG" />
 </p>
 
+<!-- Typing SVG com largura aumentada -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77DFF&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Ana+Vitória!;Desenvolvedora+com+foco+em+Python%2C+SQL+e+C%23;Apaixonada+por+tecnologia+e+lógica+de+programação" alt="Typing SVG" />
+</p>
+
+<!-- GIF novo, mais largo e centralizado -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmwzbXFodnplcXZ5aGZkOHozeXkxdmd5cXUyYjRrcnZobnhpNWhwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnexM9LwlwGu4Z1QnS/giphy.gif" width="100%" />
 </p>
