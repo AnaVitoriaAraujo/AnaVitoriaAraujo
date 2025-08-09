@@ -1,4 +1,4 @@
-# 👩‍💻 Ana Vitória Araújo de Souza
+# 👩🏾‍💻 Ana Vitória Araújo de Souza
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77DFF&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Ana+Vitória!;Desenvolvedora+com+foco+em+Python%2C+SQL+e+C%23;Apaixonada+por+tecnologia+e+lógica+de+programação" alt="Typing SVG" />
@@ -10,8 +10,6 @@
 </p>
 
 ---
-
- ## 📈 Estatísticas do GitHub
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=AnaVitoriaAraujo&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
