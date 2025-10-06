@@ -36,7 +36,7 @@ Gosto de transformar ideias em código e resolver problemas com soluções intel
 
 ## ° Experiências
 
-** ° Estágio em Key Account**  
+ °  Estágio em Análise de Dados em Key Account - Toyota Material Handinlg Mercosur.  
 Atuo na **análise de dados** para a equipe de vendas de Key Account, criando **dashboards no Power BI** e acompanhando **KPIs**.  
 Realizo **análises de pipeline e forecast** via **CRM** e utilizo o **Pacote Office**, com foco em **Excel**, para relatórios e suporte às análises estratégicas.
 
