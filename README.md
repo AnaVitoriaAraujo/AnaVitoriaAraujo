@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+## ° Sobre Mim
 
 Sou uma desenvolvedora com interesse especial em **SQL**, **Python**, **C#**, **HTML** e **CSS**.  
 Tenho formação técnica em TI e estou concluindo minha graduação em Ciência da Computação.  
@@ -34,27 +34,27 @@ Gosto de transformar ideias em código e resolver problemas com soluções intel
 
 ---
 
-## 📂 Experiências
+## ° Experiências
 
-**🎯 Estágio em Key Account**  
+** ° Estágio em Key Account**  
 Atuo na **análise de dados** para a equipe de vendas de Key Account, criando **dashboards no Power BI** e acompanhando **KPIs**.  
 Realizo **análises de pipeline e forecast** via **CRM** e utilizo o **Pacote Office**, com foco em **Excel**, para relatórios e suporte às análises estratégicas.
 
 ---
 
-## 📚 Formação Acadêmica
+## ° Formação Acadêmica
 
-- 🎓 **Técnico em TI**  
-- 🎓 **Ciência da Computação** – Último semestre
-- 🎓 **Cybersecurity**
+-  **Técnico em TI**  
+-  **Ciência da Computação** – Último semestre
+-  **Cybersecurity**
 
 ---
 
-## 📬 Contato
+## ° Contato
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30"/>](https://www.linkedin.com/in/ana-vitoria-araujo-de-souza-a15604221)
 [<img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" height="30"/>](mailto:ana.araaujoo10@gmail.com)
 
+
 ---
 
-> ⭐ Se gostou do meu trabalho, me siga aqui no GitHub para acompanhar os próximos projetos!
