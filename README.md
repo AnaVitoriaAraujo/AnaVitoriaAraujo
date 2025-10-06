@@ -15,7 +15,7 @@
 </div>
 
 
-## 🛠️ Tecnologias que trabalho
+## Minhas Ferramentas de trabalho
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="30"/>](https://www.python.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" height="30"/>](https://www.mysql.com/)
